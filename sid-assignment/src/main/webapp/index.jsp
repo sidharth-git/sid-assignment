@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>YEEEEEE....KHELA  KARIDELU  LITU !</h2>
+<h2>YEEEEEE....KHELA  KARIDELU  LITU..PIPELINE READY!</h2>
 </body>
 </html>
